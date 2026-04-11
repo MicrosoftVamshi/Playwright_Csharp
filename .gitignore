@@ -1,0 +1,9 @@
+bin/
+obj/
+.env
+playwright-report/
+test-results/
+*.user
+*.suo
+*.cache
+.vs/
