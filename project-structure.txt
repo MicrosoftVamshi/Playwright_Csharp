@@ -1,0 +1,861 @@
+Folder PATH listing
+Volume serial number is C665-78C0
+C:.
+¦   .env
+¦   .gitignore
+¦   Demoblaze.Tests.csproj
+¦   Demoblaze.Tests.sln
+¦   project-structure.txt
+¦   
++---bin
+¦   +---Debug
+¦       +---net10.0
+¦           ¦   ClosedXML.dll
+¦           ¦   ClosedXML.Parser.dll
+¦           ¦   CsvHelper.dll
+¦           ¦   Demoblaze.Tests.deps.json
+¦           ¦   Demoblaze.Tests.dll
+¦           ¦   Demoblaze.Tests.pdb
+¦           ¦   Demoblaze.Tests.runtimeconfig.json
+¦           ¦   DocumentFormat.OpenXml.dll
+¦           ¦   DocumentFormat.OpenXml.Framework.dll
+¦           ¦   DotNetEnv.dll
+¦           ¦   ExcelNumberFormat.dll
+¦           ¦   Microsoft.ApplicationInsights.dll
+¦           ¦   Microsoft.Bcl.AsyncInterfaces.dll
+¦           ¦   Microsoft.Extensions.Configuration.Abstractions.dll
+¦           ¦   Microsoft.Extensions.Configuration.dll
+¦           ¦   Microsoft.Extensions.DependencyModel.dll
+¦           ¦   Microsoft.Extensions.Primitives.dll
+¦           ¦   Microsoft.Playwright.dll
+¦           ¦   Microsoft.Testing.Extensions.MSBuild.dll
+¦           ¦   Microsoft.Testing.Extensions.Telemetry.dll
+¦           ¦   Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+¦           ¦   Microsoft.Testing.Extensions.VSTestBridge.dll
+¦           ¦   Microsoft.Testing.Platform.dll
+¦           ¦   Microsoft.TestPlatform.CommunicationUtilities.dll
+¦           ¦   Microsoft.TestPlatform.CoreUtilities.dll
+¦           ¦   Microsoft.TestPlatform.CrossPlatEngine.dll
+¦           ¦   Microsoft.TestPlatform.PlatformAbstractions.dll
+¦           ¦   Microsoft.TestPlatform.Utilities.dll
+¦           ¦   Microsoft.VisualStudio.CodeCoverage.Shim.dll
+¦           ¦   Microsoft.VisualStudio.TestPlatform.Common.dll
+¦           ¦   Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+¦           ¦   Newtonsoft.Json.dll
+¦           ¦   nunit.engine.api.dll
+¦           ¦   nunit.engine.core.dll
+¦           ¦   nunit.engine.dll
+¦           ¦   nunit.framework.dll
+¦           ¦   nunit.framework.legacy.dll
+¦           ¦   NUnit3.TestAdapter.dll
+¦           ¦   NUnit3.TestAdapter.pdb
+¦           ¦   nunit_random_seed.tmp
+¦           ¦   playwright.ps1
+¦           ¦   RBush.dll
+¦           ¦   SixLabors.Fonts.dll
+¦           ¦   Sprache.dll
+¦           ¦   System.IO.Packaging.dll
+¦           ¦   testcentric.engine.metadata.dll
+¦           ¦   testhost.dll
+¦           ¦   testhost.exe
+¦           ¦   
+¦           +---.playwright
+¦           ¦   +---node
+¦           ¦   ¦   ¦   LICENSE
+¦           ¦   ¦   ¦   
+¦           ¦   ¦   +---win32_x64
+¦           ¦   ¦           node.exe
+¦           ¦   ¦           
+¦           ¦   +---package
+¦           ¦       ¦   api.json
+¦           ¦       ¦   browsers.json
+¦           ¦       ¦   cli.js
+¦           ¦       ¦   index.d.ts
+¦           ¦       ¦   index.js
+¦           ¦       ¦   index.mjs
+¦           ¦       ¦   LICENSE
+¦           ¦       ¦   NOTICE
+¦           ¦       ¦   package.json
+¦           ¦       ¦   protocol.yml
+¦           ¦       ¦   README.md
+¦           ¦       ¦   ThirdPartyNotices.txt
+¦           ¦       ¦   
+¦           ¦       +---bin
+¦           ¦       ¦       install_media_pack.ps1
+¦           ¦       ¦       install_webkit_wsl.ps1
+¦           ¦       ¦       reinstall_chrome_beta_linux.sh
+¦           ¦       ¦       reinstall_chrome_beta_mac.sh
+¦           ¦       ¦       reinstall_chrome_beta_win.ps1
+¦           ¦       ¦       reinstall_chrome_stable_linux.sh
+¦           ¦       ¦       reinstall_chrome_stable_mac.sh
+¦           ¦       ¦       reinstall_chrome_stable_win.ps1
+¦           ¦       ¦       reinstall_msedge_beta_linux.sh
+¦           ¦       ¦       reinstall_msedge_beta_mac.sh
+¦           ¦       ¦       reinstall_msedge_beta_win.ps1
+¦           ¦       ¦       reinstall_msedge_dev_linux.sh
+¦           ¦       ¦       reinstall_msedge_dev_mac.sh
+¦           ¦       ¦       reinstall_msedge_dev_win.ps1
+¦           ¦       ¦       reinstall_msedge_stable_linux.sh
+¦           ¦       ¦       reinstall_msedge_stable_mac.sh
+¦           ¦       ¦       reinstall_msedge_stable_win.ps1
+¦           ¦       ¦       
+¦           ¦       +---lib
+¦           ¦       ¦   ¦   androidServerImpl.js
+¦           ¦       ¦   ¦   bootstrap.js
+¦           ¦       ¦   ¦   browserServerImpl.js
+¦           ¦       ¦   ¦   inprocess.js
+¦           ¦       ¦   ¦   inProcessFactory.js
+¦           ¦       ¦   ¦   mcpBundle.js
+¦           ¦       ¦   ¦   mcpBundleImpl.js
+¦           ¦       ¦   ¦   outofprocess.js
+¦           ¦       ¦   ¦   serverRegistry.js
+¦           ¦       ¦   ¦   utils.js
+¦           ¦       ¦   ¦   utilsBundle.js
+¦           ¦       ¦   ¦   zipBundle.js
+¦           ¦       ¦   ¦   zipBundleImpl.js
+¦           ¦       ¦   ¦   zodBundle.js
+¦           ¦       ¦   ¦   zodBundleImpl.js
+¦           ¦       ¦   ¦   
+¦           ¦       ¦   +---cli
+¦           ¦       ¦   ¦       browserActions.js
+¦           ¦       ¦   ¦       driver.js
+¦           ¦       ¦   ¦       installActions.js
+¦           ¦       ¦   ¦       program.js
+¦           ¦       ¦   ¦       programWithTestStub.js
+¦           ¦       ¦   ¦       
+¦           ¦       ¦   +---client
+¦           ¦       ¦   ¦       android.js
+¦           ¦       ¦   ¦       api.js
+¦           ¦       ¦   ¦       artifact.js
+¦           ¦       ¦   ¦       browser.js
+¦           ¦       ¦   ¦       browserContext.js
+¦           ¦       ¦   ¦       browserType.js
+¦           ¦       ¦   ¦       cdpSession.js
+¦           ¦       ¦   ¦       channelOwner.js
+¦           ¦       ¦   ¦       clientHelper.js
+¦           ¦       ¦   ¦       clientInstrumentation.js
+¦           ¦       ¦   ¦       clientStackTrace.js
+¦           ¦       ¦   ¦       clock.js
+¦           ¦       ¦   ¦       connect.js
+¦           ¦       ¦   ¦       connection.js
+¦           ¦       ¦   ¦       consoleMessage.js
+¦           ¦       ¦   ¦       coverage.js
+¦           ¦       ¦   ¦       debugger.js
+¦           ¦       ¦   ¦       dialog.js
+¦           ¦       ¦   ¦       disposable.js
+¦           ¦       ¦   ¦       download.js
+¦           ¦       ¦   ¦       electron.js
+¦           ¦       ¦   ¦       elementHandle.js
+¦           ¦       ¦   ¦       errors.js
+¦           ¦       ¦   ¦       eventEmitter.js
+¦           ¦       ¦   ¦       events.js
+¦           ¦       ¦   ¦       fetch.js
+¦           ¦       ¦   ¦       fileChooser.js
+¦           ¦       ¦   ¦       fileUtils.js
+¦           ¦       ¦   ¦       frame.js
+¦           ¦       ¦   ¦       harRouter.js
+¦           ¦       ¦   ¦       input.js
+¦           ¦       ¦   ¦       jsHandle.js
+¦           ¦       ¦   ¦       jsonPipe.js
+¦           ¦       ¦   ¦       localUtils.js
+¦           ¦       ¦   ¦       locator.js
+¦           ¦       ¦   ¦       network.js
+¦           ¦       ¦   ¦       page.js
+¦           ¦       ¦   ¦       platform.js
+¦           ¦       ¦   ¦       playwright.js
+¦           ¦       ¦   ¦       screencast.js
+¦           ¦       ¦   ¦       selectors.js
+¦           ¦       ¦   ¦       stream.js
+¦           ¦       ¦   ¦       timeoutSettings.js
+¦           ¦       ¦   ¦       tracing.js
+¦           ¦       ¦   ¦       types.js
+¦           ¦       ¦   ¦       video.js
+¦           ¦       ¦   ¦       waiter.js
+¦           ¦       ¦   ¦       webError.js
+¦           ¦       ¦   ¦       worker.js
+¦           ¦       ¦   ¦       writableStream.js
+¦           ¦       ¦   ¦       
+¦           ¦       ¦   +---generated
+¦           ¦       ¦   ¦       bindingsControllerSource.js
+¦           ¦       ¦   ¦       clockSource.js
+¦           ¦       ¦   ¦       injectedScriptSource.js
+¦           ¦       ¦   ¦       pollingRecorderSource.js
+¦           ¦       ¦   ¦       storageScriptSource.js
+¦           ¦       ¦   ¦       utilityScriptSource.js
+¦           ¦       ¦   ¦       webSocketMockSource.js
+¦           ¦       ¦   ¦       
+¦           ¦       ¦   +---protocol
+¦           ¦       ¦   ¦       serializers.js
+¦           ¦       ¦   ¦       validator.js
+¦           ¦       ¦   ¦       validatorPrimitives.js
+¦           ¦       ¦   ¦       
+¦           ¦       ¦   +---remote
+¦           ¦       ¦   ¦       playwrightConnection.js
+¦           ¦       ¦   ¦       playwrightPipeServer.js
+¦           ¦       ¦   ¦       playwrightServer.js
+¦           ¦       ¦   ¦       playwrightWebSocketServer.js
+¦           ¦       ¦   ¦       serverTransport.js
+¦           ¦       ¦   ¦       
+¦           ¦       ¦   +---server
+¦           ¦       ¦   ¦   ¦   artifact.js
+¦           ¦       ¦   ¦   ¦   browser.js
+¦           ¦       ¦   ¦   ¦   browserContext.js
+¦           ¦       ¦   ¦   ¦   browserType.js
+¦           ¦       ¦   ¦   ¦   callLog.js
+¦           ¦       ¦   ¦   ¦   clock.js
+¦           ¦       ¦   ¦   ¦   console.js
+¦           ¦       ¦   ¦   ¦   cookieStore.js
+¦           ¦       ¦   ¦   ¦   debugController.js
+¦           ¦       ¦   ¦   ¦   debugger.js
+¦           ¦       ¦   ¦   ¦   deviceDescriptors.js
+¦           ¦       ¦   ¦   ¦   deviceDescriptorsSource.json
+¦           ¦       ¦   ¦   ¦   dialog.js
+¦           ¦       ¦   ¦   ¦   disposable.js
+¦           ¦       ¦   ¦   ¦   dom.js
+¦           ¦       ¦   ¦   ¦   download.js
+¦           ¦       ¦   ¦   ¦   errors.js
+¦           ¦       ¦   ¦   ¦   fetch.js
+¦           ¦       ¦   ¦   ¦   fileChooser.js
+¦           ¦       ¦   ¦   ¦   fileUploadUtils.js
+¦           ¦       ¦   ¦   ¦   formData.js
+¦           ¦       ¦   ¦   ¦   frames.js
+¦           ¦       ¦   ¦   ¦   frameSelectors.js
+¦           ¦       ¦   ¦   ¦   harBackend.js
+¦           ¦       ¦   ¦   ¦   helper.js
+¦           ¦       ¦   ¦   ¦   index.js
+¦           ¦       ¦   ¦   ¦   input.js
+¦           ¦       ¦   ¦   ¦   instrumentation.js
+¦           ¦       ¦   ¦   ¦   javascript.js
+¦           ¦       ¦   ¦   ¦   launchApp.js
+¦           ¦       ¦   ¦   ¦   localUtils.js
+¦           ¦       ¦   ¦   ¦   macEditingCommands.js
+¦           ¦       ¦   ¦   ¦   network.js
+¦           ¦       ¦   ¦   ¦   overlay.js
+¦           ¦       ¦   ¦   ¦   page.js
+¦           ¦       ¦   ¦   ¦   pipeTransport.js
+¦           ¦       ¦   ¦   ¦   playwright.js
+¦           ¦       ¦   ¦   ¦   progress.js
+¦           ¦       ¦   ¦   ¦   protocolError.js
+¦           ¦       ¦   ¦   ¦   recorder.js
+¦           ¦       ¦   ¦   ¦   screencast.js
+¦           ¦       ¦   ¦   ¦   screenshotter.js
+¦           ¦       ¦   ¦   ¦   selectors.js
+¦           ¦       ¦   ¦   ¦   socksClientCertificatesInterceptor.js
+¦           ¦       ¦   ¦   ¦   socksInterceptor.js
+¦           ¦       ¦   ¦   ¦   transport.js
+¦           ¦       ¦   ¦   ¦   types.js
+¦           ¦       ¦   ¦   ¦   usKeyboardLayout.js
+¦           ¦       ¦   ¦   ¦   videoRecorder.js
+¦           ¦       ¦   ¦   ¦   
+¦           ¦       ¦   ¦   +---android
+¦           ¦       ¦   ¦   ¦       android.js
+¦           ¦       ¦   ¦   ¦       backendAdb.js
+¦           ¦       ¦   ¦   ¦       
+¦           ¦       ¦   ¦   +---bidi
+¦           ¦       ¦   ¦   ¦   ¦   bidiBrowser.js
+¦           ¦       ¦   ¦   ¦   ¦   bidiChromium.js
+¦           ¦       ¦   ¦   ¦   ¦   bidiConnection.js
+¦           ¦       ¦   ¦   ¦   ¦   bidiDeserializer.js
+¦           ¦       ¦   ¦   ¦   ¦   bidiExecutionContext.js
+¦           ¦       ¦   ¦   ¦   ¦   bidiFirefox.js
+¦           ¦       ¦   ¦   ¦   ¦   bidiInput.js
+¦           ¦       ¦   ¦   ¦   ¦   bidiNetworkManager.js
+¦           ¦       ¦   ¦   ¦   ¦   bidiOverCdp.js
+¦           ¦       ¦   ¦   ¦   ¦   bidiPage.js
+¦           ¦       ¦   ¦   ¦   ¦   bidiPdf.js
+¦           ¦       ¦   ¦   ¦   ¦   
+¦           ¦       ¦   ¦   ¦   +---third_party
+¦           ¦       ¦   ¦   ¦           bidiCommands.d.js
+¦           ¦       ¦   ¦   ¦           bidiKeyboard.js
+¦           ¦       ¦   ¦   ¦           bidiProtocol.js
+¦           ¦       ¦   ¦   ¦           bidiProtocolCore.js
+¦           ¦       ¦   ¦   ¦           bidiProtocolPermissions.js
+¦           ¦       ¦   ¦   ¦           bidiSerializer.js
+¦           ¦       ¦   ¦   ¦           firefoxPrefs.js
+¦           ¦       ¦   ¦   ¦           
+¦           ¦       ¦   ¦   +---chromium
+¦           ¦       ¦   ¦   ¦       appIcon.png
+¦           ¦       ¦   ¦   ¦       chromium.js
+¦           ¦       ¦   ¦   ¦       chromiumSwitches.js
+¦           ¦       ¦   ¦   ¦       crBrowser.js
+¦           ¦       ¦   ¦   ¦       crConnection.js
+¦           ¦       ¦   ¦   ¦       crCoverage.js
+¦           ¦       ¦   ¦   ¦       crDevTools.js
+¦           ¦       ¦   ¦   ¦       crDragDrop.js
+¦           ¦       ¦   ¦   ¦       crExecutionContext.js
+¦           ¦       ¦   ¦   ¦       crInput.js
+¦           ¦       ¦   ¦   ¦       crNetworkManager.js
+¦           ¦       ¦   ¦   ¦       crPage.js
+¦           ¦       ¦   ¦   ¦       crPdf.js
+¦           ¦       ¦   ¦   ¦       crProtocolHelper.js
+¦           ¦       ¦   ¦   ¦       crServiceWorker.js
+¦           ¦       ¦   ¦   ¦       defaultFontFamilies.js
+¦           ¦       ¦   ¦   ¦       protocol.d.js
+¦           ¦       ¦   ¦   ¦       
+¦           ¦       ¦   ¦   +---codegen
+¦           ¦       ¦   ¦   ¦       csharp.js
+¦           ¦       ¦   ¦   ¦       java.js
+¦           ¦       ¦   ¦   ¦       javascript.js
+¦           ¦       ¦   ¦   ¦       jsonl.js
+¦           ¦       ¦   ¦   ¦       language.js
+¦           ¦       ¦   ¦   ¦       languages.js
+¦           ¦       ¦   ¦   ¦       python.js
+¦           ¦       ¦   ¦   ¦       types.js
+¦           ¦       ¦   ¦   ¦       
+¦           ¦       ¦   ¦   +---dispatchers
+¦           ¦       ¦   ¦   ¦       androidDispatcher.js
+¦           ¦       ¦   ¦   ¦       artifactDispatcher.js
+¦           ¦       ¦   ¦   ¦       browserContextDispatcher.js
+¦           ¦       ¦   ¦   ¦       browserDispatcher.js
+¦           ¦       ¦   ¦   ¦       browserTypeDispatcher.js
+¦           ¦       ¦   ¦   ¦       cdpSessionDispatcher.js
+¦           ¦       ¦   ¦   ¦       debugControllerDispatcher.js
+¦           ¦       ¦   ¦   ¦       debuggerDispatcher.js
+¦           ¦       ¦   ¦   ¦       dialogDispatcher.js
+¦           ¦       ¦   ¦   ¦       dispatcher.js
+¦           ¦       ¦   ¦   ¦       disposableDispatcher.js
+¦           ¦       ¦   ¦   ¦       electronDispatcher.js
+¦           ¦       ¦   ¦   ¦       elementHandlerDispatcher.js
+¦           ¦       ¦   ¦   ¦       frameDispatcher.js
+¦           ¦       ¦   ¦   ¦       jsHandleDispatcher.js
+¦           ¦       ¦   ¦   ¦       jsonPipeDispatcher.js
+¦           ¦       ¦   ¦   ¦       localUtilsDispatcher.js
+¦           ¦       ¦   ¦   ¦       networkDispatchers.js
+¦           ¦       ¦   ¦   ¦       pageDispatcher.js
+¦           ¦       ¦   ¦   ¦       playwrightDispatcher.js
+¦           ¦       ¦   ¦   ¦       streamDispatcher.js
+¦           ¦       ¦   ¦   ¦       tracingDispatcher.js
+¦           ¦       ¦   ¦   ¦       webSocketRouteDispatcher.js
+¦           ¦       ¦   ¦   ¦       writableStreamDispatcher.js
+¦           ¦       ¦   ¦   ¦       
+¦           ¦       ¦   ¦   +---electron
+¦           ¦       ¦   ¦   ¦       electron.js
+¦           ¦       ¦   ¦   ¦       loader.js
+¦           ¦       ¦   ¦   ¦       
+¦           ¦       ¦   ¦   +---firefox
+¦           ¦       ¦   ¦   ¦       ffBrowser.js
+¦           ¦       ¦   ¦   ¦       ffConnection.js
+¦           ¦       ¦   ¦   ¦       ffExecutionContext.js
+¦           ¦       ¦   ¦   ¦       ffInput.js
+¦           ¦       ¦   ¦   ¦       ffNetworkManager.js
+¦           ¦       ¦   ¦   ¦       ffPage.js
+¦           ¦       ¦   ¦   ¦       firefox.js
+¦           ¦       ¦   ¦   ¦       protocol.d.js
+¦           ¦       ¦   ¦   ¦       
+¦           ¦       ¦   ¦   +---har
+¦           ¦       ¦   ¦   ¦       harRecorder.js
+¦           ¦       ¦   ¦   ¦       harTracer.js
+¦           ¦       ¦   ¦   ¦       
+¦           ¦       ¦   ¦   +---recorder
+¦           ¦       ¦   ¦   ¦       chat.js
+¦           ¦       ¦   ¦   ¦       recorderApp.js
+¦           ¦       ¦   ¦   ¦       recorderRunner.js
+¦           ¦       ¦   ¦   ¦       recorderSignalProcessor.js
+¦           ¦       ¦   ¦   ¦       recorderUtils.js
+¦           ¦       ¦   ¦   ¦       throttledFile.js
+¦           ¦       ¦   ¦   ¦       
+¦           ¦       ¦   ¦   +---registry
+¦           ¦       ¦   ¦   ¦       browserFetcher.js
+¦           ¦       ¦   ¦   ¦       dependencies.js
+¦           ¦       ¦   ¦   ¦       index.js
+¦           ¦       ¦   ¦   ¦       nativeDeps.js
+¦           ¦       ¦   ¦   ¦       oopDownloadBrowserMain.js
+¦           ¦       ¦   ¦   ¦       
+¦           ¦       ¦   ¦   +---trace
+¦           ¦       ¦   ¦   ¦   +---recorder
+¦           ¦       ¦   ¦   ¦   ¦       snapshotter.js
+¦           ¦       ¦   ¦   ¦   ¦       snapshotterInjected.js
+¦           ¦       ¦   ¦   ¦   ¦       tracing.js
+¦           ¦       ¦   ¦   ¦   ¦       
+¦           ¦       ¦   ¦   ¦   +---viewer
+¦           ¦       ¦   ¦   ¦           traceViewer.js
+¦           ¦       ¦   ¦   ¦           
+¦           ¦       ¦   ¦   +---utils
+¦           ¦       ¦   ¦   ¦   ¦   ascii.js
+¦           ¦       ¦   ¦   ¦   ¦   comparators.js
+¦           ¦       ¦   ¦   ¦   ¦   crypto.js
+¦           ¦       ¦   ¦   ¦   ¦   debug.js
+¦           ¦       ¦   ¦   ¦   ¦   debugLogger.js
+¦           ¦       ¦   ¦   ¦   ¦   disposable.js
+¦           ¦       ¦   ¦   ¦   ¦   env.js
+¦           ¦       ¦   ¦   ¦   ¦   eventsHelper.js
+¦           ¦       ¦   ¦   ¦   ¦   expectUtils.js
+¦           ¦       ¦   ¦   ¦   ¦   fileUtils.js
+¦           ¦       ¦   ¦   ¦   ¦   happyEyeballs.js
+¦           ¦       ¦   ¦   ¦   ¦   hostPlatform.js
+¦           ¦       ¦   ¦   ¦   ¦   httpServer.js
+¦           ¦       ¦   ¦   ¦   ¦   linuxUtils.js
+¦           ¦       ¦   ¦   ¦   ¦   network.js
+¦           ¦       ¦   ¦   ¦   ¦   nodePlatform.js
+¦           ¦       ¦   ¦   ¦   ¦   pipeTransport.js
+¦           ¦       ¦   ¦   ¦   ¦   processLauncher.js
+¦           ¦       ¦   ¦   ¦   ¦   profiler.js
+¦           ¦       ¦   ¦   ¦   ¦   socksProxy.js
+¦           ¦       ¦   ¦   ¦   ¦   spawnAsync.js
+¦           ¦       ¦   ¦   ¦   ¦   task.js
+¦           ¦       ¦   ¦   ¦   ¦   userAgent.js
+¦           ¦       ¦   ¦   ¦   ¦   wsServer.js
+¦           ¦       ¦   ¦   ¦   ¦   zipFile.js
+¦           ¦       ¦   ¦   ¦   ¦   zones.js
+¦           ¦       ¦   ¦   ¦   ¦   
+¦           ¦       ¦   ¦   ¦   +---image_tools
+¦           ¦       ¦   ¦   ¦           colorUtils.js
+¦           ¦       ¦   ¦   ¦           compare.js
+¦           ¦       ¦   ¦   ¦           imageChannel.js
+¦           ¦       ¦   ¦   ¦           stats.js
+¦           ¦       ¦   ¦   ¦           
+¦           ¦       ¦   ¦   +---webkit
+¦           ¦       ¦   ¦           protocol.d.js
+¦           ¦       ¦   ¦           webkit.js
+¦           ¦       ¦   ¦           wkBrowser.js
+¦           ¦       ¦   ¦           wkConnection.js
+¦           ¦       ¦   ¦           wkExecutionContext.js
+¦           ¦       ¦   ¦           wkInput.js
+¦           ¦       ¦   ¦           wkInterceptableRequest.js
+¦           ¦       ¦   ¦           wkPage.js
+¦           ¦       ¦   ¦           wkProvisionalPage.js
+¦           ¦       ¦   ¦           wkWorkers.js
+¦           ¦       ¦   ¦           
+¦           ¦       ¦   +---third_party
+¦           ¦       ¦   ¦       pixelmatch.js
+¦           ¦       ¦   ¦       
+¦           ¦       ¦   +---tools
+¦           ¦       ¦   ¦   ¦   exports.js
+¦           ¦       ¦   ¦   ¦   
+¦           ¦       ¦   ¦   +---backend
+¦           ¦       ¦   ¦   ¦       browserBackend.js
+¦           ¦       ¦   ¦   ¦       common.js
+¦           ¦       ¦   ¦   ¦       config.js
+¦           ¦       ¦   ¦   ¦       console.js
+¦           ¦       ¦   ¦   ¦       context.js
+¦           ¦       ¦   ¦   ¦       cookies.js
+¦           ¦       ¦   ¦   ¦       devtools.js
+¦           ¦       ¦   ¦   ¦       dialogs.js
+¦           ¦       ¦   ¦   ¦       evaluate.js
+¦           ¦       ¦   ¦   ¦       files.js
+¦           ¦       ¦   ¦   ¦       form.js
+¦           ¦       ¦   ¦   ¦       keyboard.js
+¦           ¦       ¦   ¦   ¦       logFile.js
+¦           ¦       ¦   ¦   ¦       mouse.js
+¦           ¦       ¦   ¦   ¦       navigate.js
+¦           ¦       ¦   ¦   ¦       network.js
+¦           ¦       ¦   ¦   ¦       pdf.js
+¦           ¦       ¦   ¦   ¦       response.js
+¦           ¦       ¦   ¦   ¦       route.js
+¦           ¦       ¦   ¦   ¦       runCode.js
+¦           ¦       ¦   ¦   ¦       screenshot.js
+¦           ¦       ¦   ¦   ¦       sessionLog.js
+¦           ¦       ¦   ¦   ¦       snapshot.js
+¦           ¦       ¦   ¦   ¦       storage.js
+¦           ¦       ¦   ¦   ¦       tab.js
+¦           ¦       ¦   ¦   ¦       tabs.js
+¦           ¦       ¦   ¦   ¦       tool.js
+¦           ¦       ¦   ¦   ¦       tools.js
+¦           ¦       ¦   ¦   ¦       tracing.js
+¦           ¦       ¦   ¦   ¦       utils.js
+¦           ¦       ¦   ¦   ¦       verify.js
+¦           ¦       ¦   ¦   ¦       video.js
+¦           ¦       ¦   ¦   ¦       wait.js
+¦           ¦       ¦   ¦   ¦       webstorage.js
+¦           ¦       ¦   ¦   ¦       
+¦           ¦       ¦   ¦   +---cli-client
+¦           ¦       ¦   ¦   ¦   ¦   cli.js
+¦           ¦       ¦   ¦   ¦   ¦   help.json
+¦           ¦       ¦   ¦   ¦   ¦   minimist.js
+¦           ¦       ¦   ¦   ¦   ¦   program.js
+¦           ¦       ¦   ¦   ¦   ¦   registry.js
+¦           ¦       ¦   ¦   ¦   ¦   session.js
+¦           ¦       ¦   ¦   ¦   ¦   
+¦           ¦       ¦   ¦   ¦   +---skill
+¦           ¦       ¦   ¦   ¦       ¦   SKILL.md
+¦           ¦       ¦   ¦   ¦       ¦   
+¦           ¦       ¦   ¦   ¦       +---references
+¦           ¦       ¦   ¦   ¦               element-attributes.md
+¦           ¦       ¦   ¦   ¦               playwright-tests.md
+¦           ¦       ¦   ¦   ¦               request-mocking.md
+¦           ¦       ¦   ¦   ¦               running-code.md
+¦           ¦       ¦   ¦   ¦               session-management.md
+¦           ¦       ¦   ¦   ¦               storage-state.md
+¦           ¦       ¦   ¦   ¦               test-generation.md
+¦           ¦       ¦   ¦   ¦               tracing.md
+¦           ¦       ¦   ¦   ¦               video-recording.md
+¦           ¦       ¦   ¦   ¦               
+¦           ¦       ¦   ¦   +---cli-daemon
+¦           ¦       ¦   ¦   ¦       command.js
+¦           ¦       ¦   ¦   ¦       commands.js
+¦           ¦       ¦   ¦   ¦       daemon.js
+¦           ¦       ¦   ¦   ¦       helpGenerator.js
+¦           ¦       ¦   ¦   ¦       program.js
+¦           ¦       ¦   ¦   ¦       
+¦           ¦       ¦   ¦   +---dashboard
+¦           ¦       ¦   ¦   ¦       appIcon.png
+¦           ¦       ¦   ¦   ¦       dashboardApp.js
+¦           ¦       ¦   ¦   ¦       dashboardController.js
+¦           ¦       ¦   ¦   ¦       
+¦           ¦       ¦   ¦   +---mcp
+¦           ¦       ¦   ¦   ¦       browserFactory.js
+¦           ¦       ¦   ¦   ¦       cdpRelay.js
+¦           ¦       ¦   ¦   ¦       cli-stub.js
+¦           ¦       ¦   ¦   ¦       config.d.js
+¦           ¦       ¦   ¦   ¦       config.js
+¦           ¦       ¦   ¦   ¦       configIni.js
+¦           ¦       ¦   ¦   ¦       extensionContextFactory.js
+¦           ¦       ¦   ¦   ¦       index.js
+¦           ¦       ¦   ¦   ¦       log.js
+¦           ¦       ¦   ¦   ¦       program.js
+¦           ¦       ¦   ¦   ¦       protocol.js
+¦           ¦       ¦   ¦   ¦       watchdog.js
+¦           ¦       ¦   ¦   ¦       
+¦           ¦       ¦   ¦   +---trace
+¦           ¦       ¦   ¦   ¦       installSkill.js
+¦           ¦       ¦   ¦   ¦       SKILL.md
+¦           ¦       ¦   ¦   ¦       traceActions.js
+¦           ¦       ¦   ¦   ¦       traceAttachments.js
+¦           ¦       ¦   ¦   ¦       traceCli.js
+¦           ¦       ¦   ¦   ¦       traceConsole.js
+¦           ¦       ¦   ¦   ¦       traceErrors.js
+¦           ¦       ¦   ¦   ¦       traceOpen.js
+¦           ¦       ¦   ¦   ¦       traceParser.js
+¦           ¦       ¦   ¦   ¦       traceRequests.js
+¦           ¦       ¦   ¦   ¦       traceScreenshot.js
+¦           ¦       ¦   ¦   ¦       traceSnapshot.js
+¦           ¦       ¦   ¦   ¦       traceUtils.js
+¦           ¦       ¦   ¦   ¦       
+¦           ¦       ¦   ¦   +---utils
+¦           ¦       ¦   ¦       ¦   connect.js
+¦           ¦       ¦   ¦       ¦   socketConnection.js
+¦           ¦       ¦   ¦       ¦   
+¦           ¦       ¦   ¦       +---mcp
+¦           ¦       ¦   ¦               http.js
+¦           ¦       ¦   ¦               server.js
+¦           ¦       ¦   ¦               tool.js
+¦           ¦       ¦   ¦               
+¦           ¦       ¦   +---utils
+¦           ¦       ¦   ¦   +---isomorphic
+¦           ¦       ¦   ¦       ¦   ariaSnapshot.js
+¦           ¦       ¦   ¦       ¦   assert.js
+¦           ¦       ¦   ¦       ¦   colors.js
+¦           ¦       ¦   ¦       ¦   cssParser.js
+¦           ¦       ¦   ¦       ¦   cssTokenizer.js
+¦           ¦       ¦   ¦       ¦   formatUtils.js
+¦           ¦       ¦   ¦       ¦   headers.js
+¦           ¦       ¦   ¦       ¦   imageUtils.js
+¦           ¦       ¦   ¦       ¦   jsonSchema.js
+¦           ¦       ¦   ¦       ¦   locatorGenerators.js
+¦           ¦       ¦   ¦       ¦   locatorParser.js
+¦           ¦       ¦   ¦       ¦   locatorUtils.js
+¦           ¦       ¦   ¦       ¦   lruCache.js
+¦           ¦       ¦   ¦       ¦   manualPromise.js
+¦           ¦       ¦   ¦       ¦   mimeType.js
+¦           ¦       ¦   ¦       ¦   multimap.js
+¦           ¦       ¦   ¦       ¦   protocolFormatter.js
+¦           ¦       ¦   ¦       ¦   protocolMetainfo.js
+¦           ¦       ¦   ¦       ¦   rtti.js
+¦           ¦       ¦   ¦       ¦   selectorParser.js
+¦           ¦       ¦   ¦       ¦   semaphore.js
+¦           ¦       ¦   ¦       ¦   stackTrace.js
+¦           ¦       ¦   ¦       ¦   stringUtils.js
+¦           ¦       ¦   ¦       ¦   time.js
+¦           ¦       ¦   ¦       ¦   timeoutRunner.js
+¦           ¦       ¦   ¦       ¦   types.js
+¦           ¦       ¦   ¦       ¦   urlMatch.js
+¦           ¦       ¦   ¦       ¦   utilityScriptSerializers.js
+¦           ¦       ¦   ¦       ¦   yaml.js
+¦           ¦       ¦   ¦       ¦   
+¦           ¦       ¦   ¦       +---trace
+¦           ¦       ¦   ¦           ¦   entries.js
+¦           ¦       ¦   ¦           ¦   snapshotRenderer.js
+¦           ¦       ¦   ¦           ¦   snapshotServer.js
+¦           ¦       ¦   ¦           ¦   snapshotStorage.js
+¦           ¦       ¦   ¦           ¦   traceLoader.js
+¦           ¦       ¦   ¦           ¦   traceModel.js
+¦           ¦       ¦   ¦           ¦   traceModernizer.js
+¦           ¦       ¦   ¦           ¦   traceUtils.js
+¦           ¦       ¦   ¦           ¦   
+¦           ¦       ¦   ¦           +---versions
+¦           ¦       ¦   ¦                   traceV3.js
+¦           ¦       ¦   ¦                   traceV4.js
+¦           ¦       ¦   ¦                   traceV5.js
+¦           ¦       ¦   ¦                   traceV6.js
+¦           ¦       ¦   ¦                   traceV7.js
+¦           ¦       ¦   ¦                   traceV8.js
+¦           ¦       ¦   ¦                   
+¦           ¦       ¦   +---utilsBundleImpl
+¦           ¦       ¦   ¦       index.js
+¦           ¦       ¦   ¦       xdg-open
+¦           ¦       ¦   ¦       
+¦           ¦       ¦   +---vite
+¦           ¦       ¦       +---dashboard
+¦           ¦       ¦       ¦   ¦   index.html
+¦           ¦       ¦       ¦   ¦   
+¦           ¦       ¦       ¦   +---assets
+¦           ¦       ¦       ¦           index-BAOybkp8.js
+¦           ¦       ¦       ¦           index-CZAYOG76.css
+¦           ¦       ¦       ¦           
+¦           ¦       ¦       +---htmlReport
+¦           ¦       ¦       ¦       index.html
+¦           ¦       ¦       ¦       report.css
+¦           ¦       ¦       ¦       report.js
+¦           ¦       ¦       ¦       
+¦           ¦       ¦       +---recorder
+¦           ¦       ¦       ¦   ¦   index.html
+¦           ¦       ¦       ¦   ¦   playwright-logo.svg
+¦           ¦       ¦       ¦   ¦   
+¦           ¦       ¦       ¦   +---assets
+¦           ¦       ¦       ¦           codeMirrorModule-C8KMvO9L.js
+¦           ¦       ¦       ¦           codeMirrorModule-DYBRYzYX.css
+¦           ¦       ¦       ¦           codicon-DCmgc-ay.ttf
+¦           ¦       ¦       ¦           index-BSjZa4pk.css
+¦           ¦       ¦       ¦           index-CqAYX1I3.js
+¦           ¦       ¦       ¦           
+¦           ¦       ¦       +---traceViewer
+¦           ¦       ¦           ¦   codeMirrorModule.DYBRYzYX.css
+¦           ¦       ¦           ¦   codicon.DCmgc-ay.ttf
+¦           ¦       ¦           ¦   defaultSettingsView.B4dS75f0.css
+¦           ¦       ¦           ¦   index.C5466mMT.js
+¦           ¦       ¦           ¦   index.CzXZzn5A.css
+¦           ¦       ¦           ¦   index.html
+¦           ¦       ¦           ¦   manifest.webmanifest
+¦           ¦       ¦           ¦   playwright-logo.svg
+¦           ¦       ¦           ¦   snapshot.html
+¦           ¦       ¦           ¦   sw.bundle.js
+¦           ¦       ¦           ¦   uiMode.Btcz36p_.css
+¦           ¦       ¦           ¦   uiMode.html
+¦           ¦       ¦           ¦   uiMode.Vipi55dB.js
+¦           ¦       ¦           ¦   xtermModule.DYP7pi_n.css
+¦           ¦       ¦           ¦   
+¦           ¦       ¦           +---assets
+¦           ¦       ¦                   codeMirrorModule-DS0FLvoc.js
+¦           ¦       ¦                   defaultSettingsView-GTWI-W_B.js
+¦           ¦       ¦                   xtermModule-CsJ4vdCR.js
+¦           ¦       ¦                   
+¦           ¦       +---types
+¦           ¦               protocol.d.ts
+¦           ¦               structs.d.ts
+¦           ¦               types.d.ts
+¦           ¦               
+¦           +---cs
+¦           ¦       Microsoft.Testing.Extensions.MSBuild.resources.dll
+¦           ¦       Microsoft.Testing.Extensions.Telemetry.resources.dll
+¦           ¦       Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+¦           ¦       Microsoft.Testing.Platform.resources.dll
+¦           ¦       Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+¦           ¦       Microsoft.TestPlatform.CoreUtilities.resources.dll
+¦           ¦       Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+¦           ¦       Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+¦           ¦       Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+¦           ¦       
+¦           +---de
+¦           ¦       Microsoft.Testing.Extensions.MSBuild.resources.dll
+¦           ¦       Microsoft.Testing.Extensions.Telemetry.resources.dll
+¦           ¦       Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+¦           ¦       Microsoft.Testing.Platform.resources.dll
+¦           ¦       Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+¦           ¦       Microsoft.TestPlatform.CoreUtilities.resources.dll
+¦           ¦       Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+¦           ¦       Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+¦           ¦       Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+¦           ¦       
+¦           +---es
+¦           ¦       Microsoft.Testing.Extensions.MSBuild.resources.dll
+¦           ¦       Microsoft.Testing.Extensions.Telemetry.resources.dll
+¦           ¦       Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+¦           ¦       Microsoft.Testing.Platform.resources.dll
+¦           ¦       Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+¦           ¦       Microsoft.TestPlatform.CoreUtilities.resources.dll
+¦           ¦       Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+¦           ¦       Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+¦           ¦       Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+¦           ¦       
+¦           +---fr
+¦           ¦       Microsoft.Testing.Extensions.MSBuild.resources.dll
+¦           ¦       Microsoft.Testing.Extensions.Telemetry.resources.dll
+¦           ¦       Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+¦           ¦       Microsoft.Testing.Platform.resources.dll
+¦           ¦       Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+¦           ¦       Microsoft.TestPlatform.CoreUtilities.resources.dll
+¦           ¦       Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+¦           ¦       Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+¦           ¦       Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+¦           ¦       
+¦           +---it
+¦           ¦       Microsoft.Testing.Extensions.MSBuild.resources.dll
+¦           ¦       Microsoft.Testing.Extensions.Telemetry.resources.dll
+¦           ¦       Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+¦           ¦       Microsoft.Testing.Platform.resources.dll
+¦           ¦       Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+¦           ¦       Microsoft.TestPlatform.CoreUtilities.resources.dll
+¦           ¦       Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+¦           ¦       Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+¦           ¦       Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+¦           ¦       
+¦           +---ja
+¦           ¦       Microsoft.Testing.Extensions.MSBuild.resources.dll
+¦           ¦       Microsoft.Testing.Extensions.Telemetry.resources.dll
+¦           ¦       Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+¦           ¦       Microsoft.Testing.Platform.resources.dll
+¦           ¦       Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+¦           ¦       Microsoft.TestPlatform.CoreUtilities.resources.dll
+¦           ¦       Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+¦           ¦       Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+¦           ¦       Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+¦           ¦       
+¦           +---ko
+¦           ¦       Microsoft.Testing.Extensions.MSBuild.resources.dll
+¦           ¦       Microsoft.Testing.Extensions.Telemetry.resources.dll
+¦           ¦       Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+¦           ¦       Microsoft.Testing.Platform.resources.dll
+¦           ¦       Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+¦           ¦       Microsoft.TestPlatform.CoreUtilities.resources.dll
+¦           ¦       Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+¦           ¦       Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+¦           ¦       Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+¦           ¦       
+¦           +---pl
+¦           ¦       Microsoft.Testing.Extensions.MSBuild.resources.dll
+¦           ¦       Microsoft.Testing.Extensions.Telemetry.resources.dll
+¦           ¦       Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+¦           ¦       Microsoft.Testing.Platform.resources.dll
+¦           ¦       Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+¦           ¦       Microsoft.TestPlatform.CoreUtilities.resources.dll
+¦           ¦       Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+¦           ¦       Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+¦           ¦       Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+¦           ¦       
+¦           +---pt-BR
+¦           ¦       Microsoft.Testing.Extensions.MSBuild.resources.dll
+¦           ¦       Microsoft.Testing.Extensions.Telemetry.resources.dll
+¦           ¦       Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+¦           ¦       Microsoft.Testing.Platform.resources.dll
+¦           ¦       Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+¦           ¦       Microsoft.TestPlatform.CoreUtilities.resources.dll
+¦           ¦       Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+¦           ¦       Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+¦           ¦       Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+¦           ¦       
+¦           +---ru
+¦           ¦       Microsoft.Testing.Extensions.MSBuild.resources.dll
+¦           ¦       Microsoft.Testing.Extensions.Telemetry.resources.dll
+¦           ¦       Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+¦           ¦       Microsoft.Testing.Platform.resources.dll
+¦           ¦       Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+¦           ¦       Microsoft.TestPlatform.CoreUtilities.resources.dll
+¦           ¦       Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+¦           ¦       Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+¦           ¦       Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+¦           ¦       
+¦           +---tr
+¦           ¦       Microsoft.Testing.Extensions.MSBuild.resources.dll
+¦           ¦       Microsoft.Testing.Extensions.Telemetry.resources.dll
+¦           ¦       Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+¦           ¦       Microsoft.Testing.Platform.resources.dll
+¦           ¦       Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+¦           ¦       Microsoft.TestPlatform.CoreUtilities.resources.dll
+¦           ¦       Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+¦           ¦       Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+¦           ¦       Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+¦           ¦       
+¦           +---zh-Hans
+¦           ¦       Microsoft.Testing.Extensions.MSBuild.resources.dll
+¦           ¦       Microsoft.Testing.Extensions.Telemetry.resources.dll
+¦           ¦       Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+¦           ¦       Microsoft.Testing.Platform.resources.dll
+¦           ¦       Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+¦           ¦       Microsoft.TestPlatform.CoreUtilities.resources.dll
+¦           ¦       Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+¦           ¦       Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+¦           ¦       Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+¦           ¦       
+¦           +---zh-Hant
+¦                   Microsoft.Testing.Extensions.MSBuild.resources.dll
+¦                   Microsoft.Testing.Extensions.Telemetry.resources.dll
+¦                   Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+¦                   Microsoft.Testing.Platform.resources.dll
+¦                   Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+¦                   Microsoft.TestPlatform.CoreUtilities.resources.dll
+¦                   Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+¦                   Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+¦                   Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+¦                   
++---Common
+¦       CommonMethods.cs
+¦       
++---Config
++---data-files
+¦       items.csv
+¦       items.json
+¦       items.xlsx
+¦       users.csv
+¦       users.json
+¦       users.xlsx
+¦       
++---DataFiles
+¦       items.csv
+¦       items.json
+¦       items.xlsx
+¦       users.csv
+¦       users.json
+¦       users.xlsx
+¦       
++---Models
++---obj
+¦   ¦   Demoblaze.Tests.csproj.nuget.dgspec.json
+¦   ¦   Demoblaze.Tests.csproj.nuget.g.props
+¦   ¦   Demoblaze.Tests.csproj.nuget.g.targets
+¦   ¦   project.assets.json
+¦   ¦   project.nuget.cache
+¦   ¦   
+¦   +---Debug
+¦       +---net10.0
+¦           ¦   .NETCoreApp,Version=v10.0.AssemblyAttributes.cs
+¦           ¦   Demoblaz.AB9903C6.Up2Date
+¦           ¦   Demoblaze.Tests.AssemblyInfo.cs
+¦           ¦   Demoblaze.Tests.AssemblyInfoInputs.cache
+¦           ¦   Demoblaze.Tests.assets.cache
+¦           ¦   Demoblaze.Tests.csproj.AssemblyReference.cache
+¦           ¦   Demoblaze.Tests.csproj.CoreCompileInputs.cache
+¦           ¦   Demoblaze.Tests.csproj.FileListAbsolute.txt
+¦           ¦   Demoblaze.Tests.dll
+¦           ¦   Demoblaze.Tests.genautoregisteredextensionsinputcache.cache
+¦           ¦   Demoblaze.Tests.GeneratedMSBuildEditorConfig.editorconfig
+¦           ¦   Demoblaze.Tests.genruntimeconfig.cache
+¦           ¦   Demoblaze.Tests.gentestingplatformentrypointinputcache.cache
+¦           ¦   Demoblaze.Tests.GlobalUsings.g.cs
+¦           ¦   Demoblaze.Tests.pdb
+¦           ¦   
+¦           +---ref
+¦           ¦       Demoblaze.Tests.dll
+¦           ¦       
+¦           +---refint
+¦                   Demoblaze.Tests.dll
+¦                   
++---Pages
++---src
+¦   +---common
+¦   ¦       BaseTest.cs
+¦   ¦       
+¦   +---models
+¦   ¦       ItemData.cs
+¦   ¦       UserData.cs
+¦   ¦       
+¦   +---pages
+¦   ¦       CartPage.cs
+¦   ¦       HomePage.cs
+¦   ¦       LoginPage.cs
+¦   ¦       SignupPage.cs
+¦   ¦       
+¦   +---utils
+¦           CsvUtil.cs
+¦           DataFactory.cs
+¦           ExcelUtil.cs
+¦           JsonUtil.cs
+¦           PathUtil.cs
+¦           
++---Tests
+¦       CartAddTests.cs
+¦       CartDeleteTests.cs
+¦       DataDrivenLoginTests.cs
+¦       E2ETest.cs
+¦       ItemsSearchTests.cs
+¦       
++---Utils
